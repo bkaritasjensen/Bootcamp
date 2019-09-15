@@ -63,7 +63,6 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
 ### Alle sider 
 * Menu 
 * Footer med kontaktinfo 
-* EKSTRAOPGAVE: Fritekst-søgefunktion til produkter og producenter (visning på produktsiden)  
 
 ### Github
 * Projektet opsættes i et GitHub Classroom.
@@ -153,6 +152,8 @@ Hvis du er hurtigt færdig!
 * Manuelt (Ved tryk på piletasterne)
 
 2. Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
+
+3. Fritekst-søgefunktion til produkter og producenter (visning på produktsiden)  
 
 ---
 
