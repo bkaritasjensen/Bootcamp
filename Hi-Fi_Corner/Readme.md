@@ -63,8 +63,8 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
  
 ### Alle sider 
 * Menu 
-* Fritekst-søgefunktion til produkter og producenter (visning på produktsiden) 
 * Footer med kontaktinfo 
+* EKSTRAOPGAVE: Fritekst-søgefunktion til produkter og producenter (visning på produktsiden)  
 
 ### Github
 * Projektet opsættes i et GitHub Classroom.
